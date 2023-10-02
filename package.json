@@ -1,0 +1,33 @@
+{
+  "name": "enash-theme",
+  "displayName": "Enash Theme",
+  "description": "enash did not like any avaible themes so he created his own.",
+  "version": "1.0.1",
+  "publisher": "enash",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "theme",
+    "cool theme",
+    "chill theme",
+    "dark",
+    "black background"
+  ],
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Enash Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Enash Theme-color-theme.json"
+      }
+    ]
+  }
+}
