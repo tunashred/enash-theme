@@ -51,19 +51,11 @@
 			"name": "Keyword, Storage",
 			"scope": [
 				"keyword",
-				"storage.modifier"
-			],
-			"settings": {
-				"foreground": "#5fa7e2"
-			}
-		},
-		{
-			"name": "Keyword, Storage",
-			"scope": [
+				"storage.modifier",
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#4f64e0"
+				"foreground": "#6b7eec"
 			}
 		},
 		{
@@ -83,7 +75,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#db9123"
+				"foreground": "#f39d1b"
 			}
 		},
 		{
@@ -162,7 +154,6 @@
 		{
 			"name": "Class, Support",
 			"scope": [
-				"entity.name",
 				"support.type",
 				"support.class",
 				"support.other.namespace.use.php",
@@ -173,15 +164,6 @@
 			],
 			"settings": {
 				"foreground": "#FFCB6B"
-			}
-		},
-		{
-			"name": "Entity Types",
-			"scope": [
-				"support.type"
-			],
-			"settings": {
-				"foreground": "#B2CCD6"
 			}
 		},
 		{
@@ -634,7 +616,7 @@
 		{
 			"name": "Function, Special Method",
 			"scope": [
-				"entity.name.function"
+				"entity.name.tag"
 			],
 			"settings": {
 				"foreground": "#d19c2a"
