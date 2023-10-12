@@ -51,16 +51,16 @@
 			"name": "Keyword, Storage",
 			"scope": [
 				"keyword",
+				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#5fa7e2"
 			}
 		},
 		{
 			"name": "Keyword, Storage",
 			"scope": [
-				"storage.type",
-				"storage.modifier"
+				"storage.type"
 			],
 			"settings": {
 				"foreground": "#4f64e0"
@@ -637,7 +637,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#d19c2a"
 			}
 		}
 	]
