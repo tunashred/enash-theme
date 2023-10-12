@@ -1,8 +1,8 @@
 {
   "name": "enash-theme",
   "displayName": "Enash Theme",
-  "description": "enash did not like any avaible themes so he created his own.",
-  "version": "1.0.1",
+  "description": "enash did not like any available themes so he created his own.",
+  "version": "1.0.2",
   "publisher": "enash",
   "repository": {
     "type": "git",
